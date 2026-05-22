@@ -23,7 +23,12 @@ VisionFX is an experimental real-time computer vision and AR/VFX project. It use
 
 ## Demo
 
-Add screenshots, GIFs, or preview videos here.
+<video controls width="640">
+  <source src="Demo%20Video/VN20260522_135217.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the demo: [Demo Video/VN20260522_135217.mp4](Demo%20Video/VN20260522_135217.mp4)
+</video>
+
+Add additional screenshots or GIFs below if desired.
 
 ## Installation
 
