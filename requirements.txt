@@ -1,0 +1,8 @@
+opencv-python==4.10.0.84
+numpy>=2.0.0,<3.0.0
+mediapipe==0.10.35
+
+# Optional extras. The app falls back cleanly when these are unavailable,
+# and Python 3.14 builds can skip them without breaking core functionality.
+pygame==2.6.1; python_version < "3.14"
+moderngl==5.10.0; python_version < "3.14"
